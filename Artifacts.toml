@@ -5,4 +5,4 @@ os = "macos"
 
     [[libsndfile.download]]
     sha256 = "facbd6c8466932901de9ca9d9d819b25f7d6016122933e43744e3dfc475bb564"
-    url = "https://github.com/local/releases/download/libsndfile-v1.0.31+0/libsndfile.v1.0.31.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/anandijain/libsndfile_jll.jl/releases/download/libsndfile-v1.0.31+0/libsndfile.v1.0.31.aarch64-apple-darwin.tar.gz"
