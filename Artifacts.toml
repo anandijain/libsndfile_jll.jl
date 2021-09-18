@@ -1,0 +1,8 @@
+[[libsndfile]]
+arch = "aarch64"
+git-tree-sha1 = "663b1d97da650cf78d53c8fae4b15c0399ed15bb"
+os = "macos"
+
+    [[libsndfile.download]]
+    sha256 = "facbd6c8466932901de9ca9d9d819b25f7d6016122933e43744e3dfc475bb564"
+    url = "https://github.com/local/releases/download/libsndfile-v1.0.31+0/libsndfile.v1.0.31.aarch64-apple-darwin.tar.gz"
